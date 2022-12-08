@@ -61,7 +61,7 @@ p {
     margin: 0 auto;
 }
 header {
-    background: url("img/Bg.png");
+    background: url("/img/Bg.png");
     background-size: cover;
 }
 header .img-index {
